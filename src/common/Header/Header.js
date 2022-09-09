@@ -24,7 +24,7 @@ const Header = () => {
               </Nav>
             </Navbar.Collapse>
             <Nav className='rounded px-3' style={{ backgroundColor: "#29A352", }}>
-              <Nav.Link className='text-light fw-bolder ' as={NavLink} to="/login">Login</Nav.Link>
+              <Nav.Link disabled className='text-light fw-bolder ' as={NavLink} to="/login">Login</Nav.Link>
             </Nav>
           </Container>
         </Navbar>

@@ -1,11 +1,11 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {
   BrowserRouter,
   Route,
   Routes
 } from "react-router-dom";
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import Header from "./common/Header/Header";
+import Footer from "./common/Footer/Footer";
 import About from "./modules/About/About";
 import Home from './modules/Home/Home';
 
@@ -20,6 +20,7 @@ function App() {
           {/* <Route path="contact" element={<Contact />} /> */}
         </Routes>
       </BrowserRouter>
+      <Footer />
     </>
   );
 }
