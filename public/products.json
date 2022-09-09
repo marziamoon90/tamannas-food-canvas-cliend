@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "Red Velevet Cupcake",
+    "img": "https://i.ibb.co/FJCPq23/img-15-717x1024.jpg",
+    "price": 18,
+    "description": "There’s something so addictive about cream cheese frosting; sweetness is tempered with a bit of tang, the texture is creamy and luscious and it’s something you can whip up in a few minutes. I love this frosting on nearly everything but a slightly chocolatey cake creates a special combination known as red velvet!",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,Vanila Essense,Red food color"
+  },
+  {
+    "id": 2,
+    "name": "Chocolate Cupcake",
+    "img": "https://i.ibb.co/3c4CGM4/img-18-717x1024.jpg",
+    "price": 25,
+    "description": "Skip the boxed chocolate cupcake mix — homemade chocolate cupcakes are just as easy to make (and even more delicious). In just 30 minutes, you'll have rich and moist chocolate cupcakes ready to serve for your next holiday, party, or potluck. Be prepared to have everyone asking you for this decadent chocolate cupcake recipe!",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense,"
+  },
+  {
+    "id": 3,
+    "name": "Haloween Cupcake",
+    "img": "https://i.ibb.co/8spS9ZD/img-55.jpg",
+    "price": 25,
+    "description": "It wouldn't be October 31st without a bucket filled with Halloween candy. But if you're looking to switch things up this year, there are plenty of fun Halloween cupcake ideas to get you in the spooky spirit. Here, you'll find cute, creepy, and creative cupcake recipes along with tons of fall flavors, like the spiced pumpkin cupcakes that you can make all season long. Looking to match your cupcakes to your Halloween costume? Try the mummy cupcakes, spider cupcakes, or the witch's hat cupcakes that are wickedly delicious. Of course, we've also included plenty of easy cupcake decorating ideas, too—think orange and black frosting, candy eyes, or even a topping of raspberry jam",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,vanila Essense,pumpkin"
+  },
+  {
+    "id": 4,
+    "name": "Black Forest Cake",
+    "img": "https://www.recipetineats.com/wp-content/uploads/2021/05/Black-Forest-Cake-new_7.jpg?resize=650,813",
+    "price": 25,
+    "description": "This gateau is the most German of all cakes: Black Forest Cake! My idea of the perfect version has soft and tender cake layers wielding enough chocolate flavour without being overwhelming. Jarred rather than fresh cherries are my other trick, because they just work that much better with the cake. And most importantly to me, it’s not too sweet, so you can actually taste all the elements rather than just a pile of sugar!!",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense,Coffee"
+  },
+  {
+    "id": 5,
+    "name": "Roll Cake",
+    "img": "https://takestwoeggs.com/wp-content/uploads/2022/04/Japanese-Roll-Cake-Takestwoeggs-Final-Photography-1.jpg",
+    "price": 25,
+    "description": "This Japanese cake roll recipe yields a fluffy, airy, and perfectly soft cake that will be the best roll cake you will ever taste! Japanese Swiss roll is not too sweet and is filled with a deliciously light whipped cream.",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense,"
+  },
+  {
+    "id": 6,
+    "name": "Floral Cake",
+    "img": "https://i.ibb.co/cJJm4yX/2dc3a255-simply-floral-cake-sc.jpg",
+    "price": 25,
+    "description": "Soft and feminine, this Breathe of Spring Floral Cake is a wonderful way to celebrate a baby shower, wedding shower or mom's birthday. After you're done icing your cake, simply use a toothpick to make stems for your flowers, then use a variety of tips to pipe leaves and petals. Add a personalized message to the top or customize your cake with a banner or a fun buttercream border. No matter what the occasion, this buttercream cake is sure to impress!",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense"
+  },
+  {
+    "id": 7,
+    "name": "Strawberry Cake",
+    "img": "https://i.ibb.co/BBy3rsG/6764a23712648c4db8370b1c0f18ebee.jpg",
+    "price": 25,
+    "description": "Sally McKenney is a professional food photographer, cookbook author, and baker. Her kitchen-tested recipes and thorough step-by-step tutorials give readers the knowledge and confidence to bake from scratch. Sally has been featured on Good Morning America, HuffPost, Taste of Home, People and more.",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,Strawberry Essense"
+  },
+  {
+    "id": 8,
+    "name": "Love Shape Chocolate Cake",
+    "img": "https://www.fnp.com/images/pr/l/v20210206094350/chocolate-truffle-heart-cake_1.jpg",
+    "price": 25,
+    "description": "Chocolate is about pleasure and what could be more pleasurable than a heart shaped chocolate chiffon cake that is filled with a chocolate whipped cream and then covered with a layer of chocolate ganache. This would be the perfect Valentines Day dessert and I like to use any leftover ganache to make chocolate truffles to decorate the top of the cake.",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense"
+  },
+  {
+    "id": 9,
+    "name": "Pineapple Cake Half",
+    "img": "https://www.fnp.com/images/pr/l/v20210325113559/pineapple-cake_1.jpg",
+    "price": 25,
+    "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment.Slice and serve the cake at room temperature and make sure it is not exposed to heat.    Use a serrated knife to cut a fondant cake.    Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children.The cake should be consumed within 24 hours.Enjoy your cake",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,Pineapple Essense"
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Cream Cake",
+    "img": "https://www.fnp.com/images/pr/l/v20210325114005/chocolate-cream-cake_2.jpg",
+    "price": 25,
+    "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment.Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children.The cake should be consumed within 24 hours. Enjoy your cake",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense"
+  },
+  {
+    "id": 11,
+    "name": "Creamy Drip Black Forest Cake",
+    "img": "https://www.fnp.com/images/pr/l/v20210702212211/creamy-drip-black-forest-cake-half-kg_1.jpg",
+    "price": 25,
+    "description": "Store cream cakes in a refrigerator.Fondant cakes should be stored in an air conditioned environment.  Slice and serve the cake at room temperature and make sure it is not exposed to heat.Use a serrated knife to cut a fondant cake.  Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children. The cake should be consumed within 24 hours.Enjoy your Cake",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,chocolate Essense"
+  },
+  {
+    "id": 12,
+    "name": "Dripping Caramel Cake",
+    "img": "https://www.fnp.com/images/pr/l/v20220606182625/dripping-caramel-cake-1-kg_1.jpg",
+    "price": 25,
+    "description": "Store cream cakes in a refrigerator.Fondant cakes should be stored in an air conditioned environment.  Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children. The cake should be consumed within 24 hours.Enjoy your cake!",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,Cream,Caramel"
+  },
+  {
+    "id": 13,
+    "name": "Rich Fruit Cake",
+    "img": "https://www.fnp.com/images/pr/l/v20180518151230/rich-fruit-cake-1kg_1.jpg",
+    "price": 25,
+    "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment. Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children.The cake should be consumed within 24 hours.Enjoy your cake!",
+    "ingredients": "Egg,Flour,Sugar,Baking powder,Cream,vanila essence,Fruits"
+  },
+  {
+    "id": 14,
+    "name": "Kit Kat Cake",
+    "img": "https://www.fnp.com/images/pr/l/v20200205193823/kit-kat-cake-half-kg_1.jpg",
+    "price": 25,
+    "description": "Store cream cakes in a refrigerator. Fondant cakes should be stored in an air conditioned environment.  Slice and serve the cake at room temperature and make sure it is not exposed to heat. Use a serrated knife to cut a fondant cake. Sculptural elements and figurines may contain wire supports or toothpicks or wooden skewers for support. Please check the placement of these items before serving to small children.The cake should be consumed within 24 hours.Enjoy your cake!",
+    "ingredients": ""
+  }
+]

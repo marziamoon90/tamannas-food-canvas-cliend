@@ -19,8 +19,8 @@ const Header = () => {
             <Navbar.Collapse style={{ display: 'flex !important', alignItems: "center", justifyContent: "center", fontWeight: "bolder" }} className='d-flex align-items-center' id="responsive-navbar-nav">
               <Nav className="nav-bar">
                 <Nav.Link as={NavLink} to="/home">Home</Nav.Link>
+                <Nav.Link as={NavLink} to="/products">Products</Nav.Link>
                 <Nav.Link as={NavLink} to="/about">About</Nav.Link>
-                <Nav.Link as={NavLink} to="/contact">Contact</Nav.Link>
               </Nav>
             </Navbar.Collapse>
             <Nav className='rounded px-3' style={{ backgroundColor: "#29A352", }}>

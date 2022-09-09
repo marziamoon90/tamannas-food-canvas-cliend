@@ -1,18 +1,17 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
-import Banner from './Banner/Banner'
-import Header from '../../common/Header/Header'
-import { Card, Col, Container, Row } from 'react-bootstrap'
-import divider from '../../images/icon/divider-01.png'
+import { Col, Container, Row } from 'react-bootstrap'
 import chef1 from '../../images/icon/chef1.png'
+import divider from '../../images/icon/divider-01.png'
 import threeImages from '../../images/product/3-images.jpg'
+import Banner from './Banner/Banner'
 
 const Home = () => {
   return (
     <div>
-      <div>
+      {/* <div>
         <Header />
-      </div>
+      </div> */}
       <div>
         <Banner />
       </div>
@@ -36,7 +35,7 @@ const Home = () => {
           </Col>
           <Col md={6}>
             <div className='d-felx align-items-center justify-conten-center'>
-              <img width={"90%"} height={"90%"} src={threeImages} alt="" />
+              <img width={"87%"} height={"87%"} src={threeImages} alt="" />
             </div>
           </Col>
         </Row>
