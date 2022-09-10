@@ -5,7 +5,6 @@ import { faShoppingBag } from '@fortawesome/free-solid-svg-icons'
 import { faDollarSign } from '@fortawesome/free-solid-svg-icons'
 
 const Product = ({ cake }) => {
-  console.log({ cake });
   return (
     <Col md={4} className="p-0">
       <div className='d-flex align-items-center justify-content-center'>

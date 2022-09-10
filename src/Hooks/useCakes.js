@@ -1,5 +1,5 @@
 import axios from 'axios';
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react';
 
 const useCakes = () => {
 
@@ -11,7 +11,6 @@ const useCakes = () => {
     axios.get("./products.json")
       .then(res => {
         setCakes(res.data)
-        console.log(res.data)
       })
       .finally(() => {
         setIsLoading(false)
