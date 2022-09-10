@@ -3,13 +3,16 @@ import { Button, Card, Col } from 'react-bootstrap'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faShoppingBag } from '@fortawesome/free-solid-svg-icons'
 import { faDollarSign } from '@fortawesome/free-solid-svg-icons'
+import './products.css'
 
 const Product = ({ cake }) => {
   return (
-    <Col md={4} className="p-0">
+    <Col md={4} >
       <div className='d-flex align-items-center justify-content-center'>
-        <Card style={{ width: '90%' }}>
-          <Card.Img variant="top" height={"300px"} width={"300px"} src={cake?.img} />
+        <Card className='card-body p-0' style={{ width: '90%' }}>
+          <div className='img-zoom rounded'>
+            <Card.Img className='img' variant="top" height={"300px"} width={"300px"} src={cake?.img} />
+          </div>
           <Card.Body>
             <Card.Title>{cake?.name}</Card.Title>
             <Card.Text>

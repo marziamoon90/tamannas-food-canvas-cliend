@@ -4,10 +4,11 @@ import aboutAvatar from '../../images/icon/about-avatar.png'
 import signature from '../../images/icon/signature.png'
 import rabbit from '../../images/icon/rabbit-icon.png'
 import aboutLeft from '../../images/background/gallery-10.jpg'
+import rabbitBackground from '../../images/background/contact.jpg'
 
 const bannerBg = {
-  background: `url(${`http://www.nicdarkthemes.com/themes/bakery/wp/demo/easter/wp-content/uploads/sites/11/2021/01/contact.jpg`})`,
-  backgroundPttachment: 'fixed',
+  background: `url(${rabbitBackground})`,
+  // backgroundAttachment: 'fixed',
   backgroundSize: 'cover',
   height: '240px',
   width: "240px",

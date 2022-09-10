@@ -5,7 +5,7 @@ import banner from '../../../images/background/banner1.jpg'
 
 const bannerBg = {
   background: `url(${`https://images.pexels.com/photos/3049426/pexels-photo-3049426.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1`})`,
-  backgroundPttachment: 'fixed',
+  // backgroundAttachment: 'fixed',
   backgroundSize: 'cover',
   height: '400px',
   width: "100%",

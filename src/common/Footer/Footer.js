@@ -8,7 +8,7 @@ import banner from '../../images/background/banner.png'
 
 const bannerBg = {
   background: `url(${banner})`,
-  backgroundPttachment: 'fixed',
+  // backgroundAttachment: 'fixed',
   backgroundSize: 'cover',
   height: '400px',
   width: "100%",
@@ -21,7 +21,7 @@ const bannerBg = {
 const Footer = () => {
   return (
     <>
-      <div style={bannerBg} className='py-5 text-white'>
+      <div style={bannerBg} className='py-5 mt-5 text-white'>
         <Container className='mt-5'>
           <Row>
             <Col md={3}>
