@@ -3,6 +3,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import aboutAvatar from '../../images/icon/about-avatar.png'
 import signature from '../../images/icon/signature.png'
 import rabbit from '../../images/icon/rabbit-icon.png'
+import aboutLeft from '../../images/background/gallery-10.jpg'
 
 const bannerBg = {
   background: `url(${`http://www.nicdarkthemes.com/themes/bakery/wp/demo/easter/wp-content/uploads/sites/11/2021/01/contact.jpg`})`,
@@ -29,7 +30,7 @@ const About = () => {
       </div>
       <Row>
         <Col md={5}>
-          <img width={"100%"} height={"100%"} src="http://www.nicdarkthemes.com/themes/bakery/wp/demo/easter/wp-content/uploads/sites/11/2021/01/gallery-10.jpg" alt="" />
+          <img width={"100%"} height={"100%"} src={aboutLeft} alt="" />
         </Col>
         <Col md={7} className="ps-5">
           <div className='text-secondary' style={{ lineHeight: "28px" }}>
