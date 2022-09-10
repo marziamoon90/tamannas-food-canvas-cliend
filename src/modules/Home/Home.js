@@ -6,6 +6,8 @@ import divider from '../../images/icon/divider-01.png'
 import threeImages from '../../images/product/3-images.jpg'
 import Banner from './Banner/Banner'
 import pic1 from '../../images/background/section2.jpg'
+import pic2 from '../../images/background/price-1.jpg'
+import pic3 from '../../images/background/price-2.jpg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCheck } from '@fortawesome/free-solid-svg-icons'
 
@@ -21,7 +23,7 @@ const section2Cover = {
   backgroundBlendMode: 'darken, luminosity'
 }
 const background = {
-  background: `url(${`http://www.nicdarkthemes.com/themes/bakery/wp/demo/easter/wp-content/uploads/sites/11/2021/01/price-2.jpg`})`,
+  background: `url(${pic3})`,
   backgroundSize: 'cover',
   height: '200px',
   width: "100%",
@@ -29,7 +31,7 @@ const background = {
   backgroundPosition: 'center',
 }
 const background2 = {
-  background: `url(${`http://www.nicdarkthemes.com/themes/bakery/wp/demo/easter/wp-content/uploads/sites/11/2021/01/price-1.jpg`})`,
+  background: `url(${pic2})`,
   backgroundSize: 'cover',
   height: '200px',
   width: "100%",
