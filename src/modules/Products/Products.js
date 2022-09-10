@@ -11,7 +11,9 @@ const Products = () => {
   return (
     <div>
       <div>
-        {isLoading && <Spinner animation="border" variant="secondary" />}
+        <p className='text-center text-lighter'>
+          {isLoading && <Spinner animation="border" variant="secondary" />}
+        </p>
         <div>
           <h1 className='text-center my-5 text-success'>Here All of your Favourite Cakes</h1>
           <Container>
